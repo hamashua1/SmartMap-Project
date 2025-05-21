@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: smartmap-project:latest
+          tags: hamashua1/smartmap-project:latest
