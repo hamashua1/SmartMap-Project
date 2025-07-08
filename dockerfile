@@ -13,6 +13,8 @@ EXPOSE 3000
 
 CMD ["npm", "start"]
 
+#my dockerfile is a simple file that will build a docker image for my node.js application.
+
 
 
 
